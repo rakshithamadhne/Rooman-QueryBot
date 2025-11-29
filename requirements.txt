@@ -1,0 +1,12 @@
+streamlit>=1.24.0,<1.30.0
+sentence-transformers>=2.2.0
+sentencepiece>=0.1.99
+transformers>=4.34.0,<4.40.0
+huggingface-hub>=0.14.0
+accelerate>=0.20.0
+safetensors>=0.3.2
+torch>=2.1.0   # install appropriate wheel for your system (cpu vs cuda)
+numpy>=1.25.0
+tqdm>=4.65.0
+pdfplumber>=0.10.0
+python-docx>=0.8.11
